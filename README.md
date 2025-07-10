@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some trouble with how the HTML showed up in the app with &amp. It was an easy fix.
 
 ## License
 
